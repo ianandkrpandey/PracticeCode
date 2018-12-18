@@ -1,0 +1,9 @@
+0734ebe5-e715-407d-8793-8815aae19193\:credentialProfileName=PersonalAccout
+cdd38ad7-5c41-42fd-a966-9d2a94589907\:credentialProfileName=default
+cognitoIdentityId=us-east-1\:73f91316-642b-474c-8de6-ea28ad818da4
+cognitoIdentityPoolId=us-east-1\:d4fdc07f-94fd-4cc6-94fb-f903657f05c1
+credentialProfileAccountIds=cdd38ad7-5c41-42fd-a966-9d2a94589907|0734ebe5-e715-407d-8793-8815aae19193
+currentAccount=cdd38ad7-5c41-42fd-a966-9d2a94589907
+currentDefaultAccount=cdd38ad7-5c41-42fd-a966-9d2a94589907
+ec2PreferencesImported=true
+eclipse.preferences.version=1

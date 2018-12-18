@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1527996558457_0" label="mypedia-report-service" name="mypedia-report-service">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/mypedia-report-download" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/mypedia-report-job" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/mypedia-report-service" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/mypedia-report-detail" type="4"/>
+</workingSet>
+</workingSetManager>

@@ -1,0 +1,14 @@
+com\pearson\global\configuration\handlers\TestUtils$DynamodbEventMixin$RecordMixin.class
+com\pearson\global\configuration\handlers\TestUtils$DynamodbEventMixin.class
+com\pearson\global\configuration\handlers\TestUtils$UpperCaseRecordsPropertyNamingStrategy.class
+com\pearson\global\configuration\handlers\TestContext$1.class
+com\pearson\global\configuration\handlers\TestUtils$DateTimeDeserializer.class
+com\pearson\global\configuration\handlers\TestContext$TestLogger.class
+com\pearson\global\configuration\handlers\TestUtils$TestJacksonMapperModule.class
+com\pearson\global\configuration\handlers\TestUtils$DynamodbEventMixin$StreamRecordMixin.class
+com\pearson\global\configuration\handlers\TestContext.class
+com\pearson\global\configuration\handlers\TestUtils$1.class
+com\pearson\global\configuration\handlers\TestUtils$DateTimeSerializer.class
+com\pearson\global\configuration\handlers\TestUtils.class
+com\pearson\global\configuration\handlers\TestUtils$DynamodbEventMixin$AttributeValueMixIn.class
+com\pearson\global\configuration\handlers\GlobalConfigLambdaFunctionHandlerTest.class

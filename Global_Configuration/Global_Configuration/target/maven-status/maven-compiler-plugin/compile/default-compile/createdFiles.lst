@@ -1,0 +1,8 @@
+com\pearson\global\configuration\dao\DynamoDBImpl.class
+com\pearson\global\configuration\dao\DynamoDBOps.class
+com\pearson\global\configuration\handlers\SaveGlobalConfigLambdaHandler.class
+com\pearson\global\configuration\model\GlobalConfigModel.class
+com\pearson\global\configuration\model\Result.class
+com\pearson\global\utils\Constants.class
+com\pearson\global\configuration\dao\DynamoDBConfig.class
+com\pearson\global\configuration\handlers\GlobalConfigLambdaFunctionHandler.class

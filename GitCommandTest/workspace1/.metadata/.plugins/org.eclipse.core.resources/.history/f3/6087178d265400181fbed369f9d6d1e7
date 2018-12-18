@@ -1,0 +1,15 @@
+package com.pearson.kinesis.consumer;
+
+import com.amazonaws.services.lambda.runtime.Context;
+import com.amazonaws.services.lambda.runtime.RequestHandler;
+import com.amazonaws.services.lambda.runtime.events.KinesisEvent;
+
+public class GenericEventConsumerHandler implements RequestHandler<E extends Event, Void> {
+
+	@Override
+	public Void handleRequest(KinesisEvent input, Context context) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

@@ -1,0 +1,6 @@
+com\pearson\kinesis\consumer\KinesisConsumerHandler.class
+com\pearson\kinesis\config\AWSKinesisCredentials.class
+com\pearson\kinesis\config\CredentialUtils.class
+com\pearson\kinesis\producer\Producer.class
+com\pearson\kinesis\model\Container.class
+com\pearson\kinesis\config\ConfigurationUtils.class

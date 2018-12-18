@@ -1,0 +1,5 @@
+package com.pearson.kinesis.consumer;
+
+public class GenericEventConsumerHandler {
+
+}

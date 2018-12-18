@@ -1,0 +1,6 @@
+com\pearson\kinesis\config\CredentialUtils.class
+com\pearson\kinesis\producer\Producer.class
+com\pearson\kinesis\model\Container.class
+com\pearson\kinesis\config\ConfigurationUtils.class
+com\pearson\kinesis\lambda\KinesisConsumerHandler.class
+com\pearson\kinesis\config\CredsConfig.class
